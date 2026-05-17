@@ -63,8 +63,8 @@ python scripts/seed_data.py
 ### 5. Access the Platform
 - **Frontend Dashboard**: [http://localhost:3000](http://localhost:3000)
   - Default Admin Credentials (from seed):
-    - Email: `admin@veille.ai`
-    - Password: `adminpassword`
+    - Email: `admin@veilleai.com`
+    - Password: `admin123`
 - **Backend API Docs**: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## Key Workflows
